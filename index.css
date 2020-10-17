@@ -20,7 +20,7 @@ a{
  background-size: 1330px;
  background-position: right bottom;
  background-repeat: no-repeat;
- background-image: url("../homepage/jess-aston-MeyCwmicJkc-unsplash.jpg");
+ background-image: url("./jess-aston-MeyCwmicJkc-unsplash.jpg");
  background-color: #edf1fd;
 }
 nav{
@@ -65,7 +65,6 @@ nav{
  padding: 10px 15px;
  color:#6c707c;
  font-size: 12px;
-
 }
 
 .logo{

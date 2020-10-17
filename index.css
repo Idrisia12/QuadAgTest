@@ -42,6 +42,22 @@ nav{
  z-index: 1;
 }
 
+.menu .but{
+  color: #FFFFFF;
+  background-color: #38d39f;
+  margin-left: 10px;
+  border-radius: 6px;
+  border: none;
+  height: 25px;
+  width: 100px;
+   box-shadow:2px 0px 20px rgba(0,0,0,0.4);
+}
+
+.menu .but:hover{
+  color: #38d39f;
+  background-color: white;
+}
+
 .menu{
  display: flex;
 }
@@ -51,9 +67,7 @@ nav{
  font-size: 12px;
 
 }
-.lang{
- color:#292929;
-}
+
 .logo{
  font-size: 25px;
  font-weight: bold;
@@ -474,7 +488,6 @@ width: 100%;
  font-size: 14px;
  text-transform: uppercase;
  letter-spacing: 2px;
-
 }
 .c-l-heading{
  font-family: calibri;

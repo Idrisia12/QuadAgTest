@@ -1,5 +1,5 @@
 /*Responsive Navigation*/
- $(document).ready(function(){
+ $(body).ready(function(){
 $('.toggle').click(function(){
  $('.toggle').toggleClass('active')
 
